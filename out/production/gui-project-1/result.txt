@@ -1,0 +1,22 @@
+Marie Curie pesel: 09876543212
+APARTMENT ID 0 | volume 50.0 | tenant Marie Curie
+start date Sun May 23 14:19:38 EEST 2021
+end date Wed May 26 14:19:38 EEST 2021
+
+
+INHABITANTSMarie Curie pesel: 09876543212
+ tenant: true
+
+APARTMENT ID 5 | volume 280.0 | tenant Marie Curie
+start date Sun May 23 14:19:38 EEST 2021
+end date Wed Jun 02 14:19:38 EEST 2021
+
+
+INHABITANTSMarie Curie pesel: 09876543212
+ tenant: true
+
+PARKING SPACE ID 2 | volume 120.0 | tenant Marie Curie
+start date Sun May 23 14:19:38 EEST 2021
+end date Wed May 26 14:19:38 EEST 2021
+(0) null 30.0m^3
+
